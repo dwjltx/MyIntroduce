@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: snow;
+}
+.wrapper{
+	width: 80%;
+	height: 1000px;
+	background-color: antiquewhite;
+	margin: 0px auto;
+}
+.heading{
+	margin: 0px;
+	width: 100%;
+}
